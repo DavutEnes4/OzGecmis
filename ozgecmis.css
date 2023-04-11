@@ -2,9 +2,14 @@ body {
     background-color: #BFBFBF;
 }
 
-.Profile
+#Profile
 {
-background-image: url(https://raw.githubusercontent.com/DavutEnes4/OzGecmis/f171b5478d895e5446753fa8b4ab372a79042817/Pictures/Left.svg);
+    width: 600px;
+    height: 200px;
+    background-image: url(https://raw.githubusercontent.com/DavutEnes4/OzGecmis/f171b5478d895e5446753fa8b4ab372a79042817/Pictures/Left.svg);
+    background-size: 1600px;
+
+
 }
 
 .Scholl
