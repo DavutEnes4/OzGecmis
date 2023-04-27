@@ -4,22 +4,25 @@ body {
 
 #Profile
 {
-    width: 600px;
-    height: 200px;
-    background-image: url(https://raw.githubusercontent.com/DavutEnes4/OzGecmis/f171b5478d895e5446753fa8b4ab372a79042817/Pictures/Left.svg);
-    background-size: 1600px;
-
-
+    background-image: url(https://github.com/DavutEnes4/OzGecmis/blob/main/Pictures/Left.png?raw=true);
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
 }
 
-.Scholl
+#Scholl
 {
-    margin: 0px;
+    width: 500px;
+    height: auto;
+    margin-top: 50px;
+    margin-right:0px;
+    margin-left: auto;
+    justify-content:center;
 }
 
 .TableProperties
 {
     margin: 0px;
+    width: 78px;
 
 }
 
